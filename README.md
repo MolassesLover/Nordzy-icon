@@ -44,7 +44,7 @@ Dark variants are more appropriate for dark desktop environments, while the norm
 
 To install the icon theme, first clone this repository
 ```
-git clone https://github.com/alvatip/Nordzy-icon
+git clone https://github.com/MolassesLover/Nordzy-icon
 ```
 Then go inside it
 ```
