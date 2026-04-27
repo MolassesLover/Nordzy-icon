@@ -1,9 +1,1 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-633 -77)" color="#2e3440" fill="currentColor">
-  <rect x="634" y="78" width="14" height="1" overflow="visible"/>
-  <rect x="634" y="81" width="14" height="1" overflow="visible"/>
-  <rect x="634" y="87" width="14" height="1" overflow="visible"/>
-  <rect x="634" y="90" width="14" height="1" overflow="visible"/>
-  <rect x="634" y="84" width="14" height="1" overflow="visible"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="currentColor" color="#2e3440"><path d="M1 1h14v1H1zM1 4h14v1H1zM1 10h14v1H1zM1 13h14v1H1zM1 7h14v1H1z" overflow="visible"/></g></svg>

@@ -1,3 +1,1 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <rect x="4" y="4" width="8" height="8" ry="4" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><rect width="8" height="8" x="4" y="4" fill="currentColor" ry="4"/></svg>

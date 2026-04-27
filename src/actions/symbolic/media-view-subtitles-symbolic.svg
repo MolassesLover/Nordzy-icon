@@ -1,7 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-733 -97)">
-  <path transform="translate(733,97)" d="m2.5 3a2.495 2.495 0 0 0-2.5 2.5v5c0 1.385 1.115 2.5 2.5 2.5h7.0625c1.385 0 2.48-1.115 2.5-2.5v-2.375l3.9375-3.125h-4a2.486 2.486 0 0 0-2.4375-2h-7.0625zm-0.17578 1h7.3516c0.73327 0 1.3242 0.59095 1.3242 1.3242v5.3516c0 0.73327-0.59095 1.3242-1.3242 1.3242h-7.3516c-0.73327 0-1.3242-0.59095-1.3242-1.3242v-5.3516c0-0.73327 0.59095-1.3242 1.3242-1.3242z" fill="currentColor"/>
- </g>
- <rect x="2" y="8" width="8" height="1" ry=".5" fill="currentColor"/>
- <rect x="2" y="10" width="5" height="1" ry=".5" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M2.5 3A2.495 2.495 0 0 0 0 5.5v5C0 11.885 1.115 13 2.5 13h7.063c1.384 0 2.48-1.115 2.5-2.5V8.125L16 5h-4a2.486 2.486 0 0 0-2.437-2zm-.176 1h7.352C10.409 4 11 4.591 11 5.324v5.352C11 11.409 10.41 12 9.676 12H2.324A1.32 1.32 0 0 1 1 10.676V5.324C1 4.591 1.591 4 2.324 4"/><rect width="8" height="1" x="2" y="8" fill="currentColor" ry=".5"/><rect width="5" height="1" x="2" y="10" fill="currentColor" ry=".5"/></svg>

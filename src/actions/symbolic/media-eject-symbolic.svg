@@ -1,5 +1,1 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-413 23)">
-  <path d="m421-20-5 5v1h10v-1zm-5 8v2h10v-2z" display="block" fill="currentColor" overflow="visible"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M8 3 3 8v1h10V8zm-5 8v2h10v-2z" display="block" overflow="visible"/></svg>

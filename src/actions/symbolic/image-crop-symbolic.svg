@@ -1,4 +1,1 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 3v1h12v12h1v-13h-13z" fill="currentColor"/>
- <path d="m3 0v2h1v-2h-1zm0 5v8h8v-1h-7v-7h-1zm11 7v1h2v-1h-2z" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M0 3v1h12v12h1V3z"/><path fill="currentColor" d="M3 0v2h1V0zm0 5v8h8v-1H4V5zm11 7v1h2v-1z"/></svg>

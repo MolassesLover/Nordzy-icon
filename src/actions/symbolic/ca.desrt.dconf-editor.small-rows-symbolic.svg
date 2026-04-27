@@ -1,4 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m8 7-6.0625-3.5 0.5-0.86523 5.5625 3.2109 5.5625-3.2109 0.5 0.86523z" fill="currentColor"/>
- <path d="m8 9-6.0625 3.5 0.5 0.86524 5.5625-3.2109 5.5625 3.2109 0.5-0.86524z" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M8 7 1.938 3.5l.5-.865L8 5.845l5.563-3.21.5.865zM8 9l-6.062 3.5.5.865L8 10.155l5.563 3.21.5-.865z"/></svg>

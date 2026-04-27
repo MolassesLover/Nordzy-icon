@@ -1,4 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path class="ColorScheme-Text" d="m7 13v-1h7v1zm2-2v-1h5v1zm-1-2v-1h6v1zm1-2v-1h5v1zm-1-4v-1h6v1z" color="#2e3440" fill="currentColor" opacity=".35"/>
- <path class="ColorScheme-Text" d="m4 14v-6.0312l-1.3438 1.4375-0.65625-0.6875 2.3125-2.5 0.1875-0.21875 0.1875 0.21875 2.3125 2.5-0.65625 0.6875-1.3438-1.4375v6.0312zm-2-9v-1h12v1z" color="#2e3440" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M7 13v-1h7v1zm2-2v-1h5v1zM8 9V8h6v1zm1-2V6h5v1zM8 3V2h6v1z" class="ColorScheme-Text" color="#2e3440" opacity=".35"/><path fill="currentColor" d="M4 14V7.969L2.656 9.406 2 8.72l2.312-2.5L4.5 6l.187.219L7 8.719l-.656.687L5 7.97V14zM2 5V4h12v1z" class="ColorScheme-Text" color="#2e3440"/></svg>
